@@ -46,19 +46,6 @@ Model building and evaluation
 
 Visualization and result interpretation
 
-🛠️ How to Run
-
-Clone this repository
-
-git clone https://github.com/your-username/Projects.git
-cd Projects
-
-
-Open any project folder
-
-Run the notebook using Jupyter
-
-jupyter notebook
 
 🌟 Future Plans
 
